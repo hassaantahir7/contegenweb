@@ -1,12 +1,8 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
-
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
+# ContéGen a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma
 
 
 
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
+This is a repository for Build a ContéGen AI Platform with Next.js 13, React, Tailwind, Prisma.
 
 Features:
 
@@ -36,7 +32,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/hassaantahir7/contegenweb.git
 ```
 
 ### Install packages
@@ -69,8 +65,6 @@ NEXT_PUBLIC_APP_URL="http://localhost:3000"
 ```
 
 ### Setup Prisma
-
-Add MySQL Database (I used PlanetScale)
 
 ```shell
 npx prisma db push
